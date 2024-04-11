@@ -1,3 +1,0 @@
-<beans>
-    <bean id="shoppingCart" class="ShoppingCart" scope="prototype"/>
-</beans>
